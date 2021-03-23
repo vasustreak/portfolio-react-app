@@ -1,0 +1,54 @@
+.education {
+    color: white;
+    height: 800px;
+    margin: 10% 10% 0% 10%;
+}
+
+.education-topic {
+    text-decoration: underline;
+    color: #64ffda;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.clg {
+    margin-top: 5%;
+}
+
+.skl {
+    margin-top: 30%;
+}
+
+.clg-skl {
+    width: 100%;
+}
+
+.clg-skl-logo {
+    float: left;
+    padding-left: 30%;
+    width: 10%;
+}
+
+.clg-skl-name {
+    float: right;
+    margin-right: 30%;
+    width: 27%;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.clg-skl-name:hover {
+    color: #64ffda;
+}
+
+.clg-skl-values {
+    float: left;
+    width: 70%;
+    height: 0px;
+    margin-left: 38%;
+    font-size: 22px;
+}
+
+.clg-skl-year {
+    font-style: italic;
+}

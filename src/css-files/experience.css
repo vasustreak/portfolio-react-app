@@ -1,0 +1,46 @@
+.experience {
+    color: white;
+    height: 615px;
+    padding-top: 8%;
+    padding-left: 10%;
+}
+
+.experience-topic {
+    text-decoration: underline;
+    color: #64ffda;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.comp-name {
+    padding-left: 5%;
+    font-size: 40px;
+}
+
+.comp-des {
+    padding-left: 5%;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.comp-loc {
+    font-size: 20px;
+}
+
+.comp-pic {
+    float: right;
+    width: 40%; 
+    margin-left: 2%;
+    margin-right: 5%;
+    height: 350px;
+}
+
+.exp-lists {
+    font-size: 22px;
+    padding-top: 1%;
+    padding-left: 10%;
+}
+
+.exp-list {
+    padding: 0% 0% 1% 0%;
+}
